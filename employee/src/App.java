@@ -26,6 +26,7 @@ public class App {
             System.out.println("Name: " + this.name);
             System.out.println("Department: " + this.department);
             System.out.println("Roll: " + this.roll);
+            System.out.println("Thanks");
         }
     }
 }
